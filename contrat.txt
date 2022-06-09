@@ -1,0 +1,10 @@
+7;Yagmur;Yildiz;yamuryy@gmail.com;05330254875;istanbul;q;q;279865#510069;Citroen;C4;orange;2022;gas;1.7;false;370;c4.png#1#RENT
+7;Yagmur;Yildiz;yamuryy@gmail.com;05330254875;istanbul;q;q;279025#510072;Reanult;Megane;black;2021;diesel;1.9;false;280;megane.png#3#RENT
+7;Yagmur;Yildiz;yamuryy@gmail.com;05330254875;istanbul;q;q;2502250#510058;Volkswagen;Golf;Black;2020;Gas;1.5;70000;true;330000;false;golf.png#-#SALE
+9;Doðan;Güçlü;doðan@gmail.com;3232323;ereðli;dormammu;313152;732000#510060;Audi;A3;White;2019;Gas;1.4;0;false;870000;false;a3.png#-#SALE
+7;Yagmur;Yildiz;yamuryy@gmail.com;05330254875;istanbul;q;q;918875#510064;Nissan;Juke;red;2016;gas;1.7;false;375;juke.png#3#RENT
+7;Yagmur;Yildiz;yamuryy@gmail.com;05330254875;istanbul;q;q;630875#510058;Volkswagen;Golf;Black;2020;Gas;1.5;70000;true;330000;false;C:/Users/oykus/eclipse-workspace/carrental/images/golf.png#-#SALE
+7;Yagmur;Yildiz;yamuryy@gmail.com;05330254875;istanbul;q;q;630615#510065;Opel;Corsa;white;2007;gas;1.8;false;130;C:/Users/oykus/eclipse-workspace/carrental/images/corsa.png#2#RENT
+7;Yagmur;Yildiz;yamuryy@gmail.com;05330254875;istanbul;q;q;420615#510060;Audi;A3;White;2019;Gas;1.4;0;false;870000;false;C:/Users/oykus/eclipse-workspace/carrental/images/a3.png#-#SALE
+7;Yagmur;Yildiz;yamuryy@gmail.com;05330254875;istanbul;q;q;419925#510063;Honda;Civic;black;2009;diesel;2.0;false;345;C:/Users/oykus/eclipse-workspace/carrental/images/civic (2).png#2#RENT
+7;Yagmur;Yildiz;yamuryy@gmail.com;05330254875;istanbul;q;q;89925#510059;Hyundai;i20;Red;2002;Gas;2.0;0;false;210000;false;C:/Users/oykus/eclipse-workspace/carrental/images/i20.png#-#SALE

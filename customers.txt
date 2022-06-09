@@ -1,0 +1,8 @@
+1;Merve;Celik;mervecelik@gmail.com;05345687932;Mersin;mcelik;giris123;250000
+2;Su;Kodas;oykusukodas@gmail.com;05312356781;Zonguldak;sukodas;oykususu57;320000
+3;Hatice;Celik;haticelik@gmail.com;05336587932;Adana;htc;asdf;350000
+4;Burak;Turkeri;burak123@gmail.com;05678921234;Sivas;burakturker;burki9900;200000
+5;Ahmet;Erol;ahmet.erol@gmail.com;05720356766;izmir;aerol;87erolizmir;680000
+6;Yagmur;Yildiz;yamuryy@gmail.com;05330254875;istanbul;yyagmur;yildizliyagmur;750000
+7;Yagmur;Yildiz;yamuryy@gmail.com;05330254875;istanbul;q;q;89925
+8;Selin;Cina;yaryy@gmail.com;05330254875;izmir;r;r;2

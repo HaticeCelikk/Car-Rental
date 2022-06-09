@@ -1,0 +1,10 @@
+510063;Honda;Civic;black;2009;diesel;2.0;true;345;C:/Users/oykus/eclipse-workspace/carrental/images/civic (2).png
+510064;Nissan;Juke;red;2016;gas;1.7;true;375;C:/Users/oykus/eclipse-workspace/carrental/images/juke.png
+510065;Opel;Corsa;white;2007;gas;1.8;false;130;C:/Users/oykus/eclipse-workspace/carrental/images/corsa.png
+510066;Ferrari;365 GTB/4;red;1972;diesel;1.4;false;245;C:/Users/oykus/eclipse-workspace/carrental/images/ferrari.png
+510067;Nissan;Qashqai;white;2018;gas;1.9;true;450;C:/Users/oykus/eclipse-workspace/carrental/images/qashqai.png
+510068;Ford;Fiesta;blue;2018;gas;1.6;false;450;C:/Users/oykus/eclipse-workspace/carrental/images/fiesta.png
+510069;Citroen;C4;orange;2022;gas;1.7;true;370;C:/Users/oykus/eclipse-workspace/carrental/images/c4.png
+510070;Dacia;Duster;orange;2010;diesel;1.5;false;260;C:/Users/oykus/eclipse-workspace/carrental/images/duster.png
+510071;Ford;Focus;blue;2021;gas;2.0;true;390;C:/Users/oykus/eclipse-workspace/carrental/images/focus.png
+510072;Reanult;Megane;black;2021;diesel;1.9;true;280;C:/Users/oykus/eclipse-workspace/carrental/images/megane.png

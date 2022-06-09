@@ -1,0 +1,8 @@
+510058;Volkswagen;Golf;Black;2020;Gas;1.5;70000;true;330000;false;C:/Users/oykus/eclipse-workspace/carrental/images/golf.png
+510059;Hyundai;i20;Red;2002;Gas;2.0;0;false;210000;false;C:/Users/oykus/eclipse-workspace/carrental/images/i20.png
+510060;Audi;A3;White;2019;Gas;1.4;0;false;870000;false;C:/Users/oykus/eclipse-workspace/carrental/images/a3.png
+510061;BMW;iX3;Phytonic Blue;2022;Diesel;1.3;0;false;987000;false;C:/Users/oykus/eclipse-workspace/carrental/images/ix3.png
+510062;Land Rover;Range Rover Sport;Gray;2016;Diesel;1.6;180000;true;1268000;false;C:/Users/oykus/eclipse-workspace/carrental/images/rr.png
+510063;Renault;Megane;Black;2016;Diesel;1.6;180000;true;1268000;false;C:/Users/oykus/eclipse-workspace/carrental/images/megane.png
+510064;Nissan;Juke;Orange;2016;Diesel;1.6;180000;true;1268000;false;C:/Users/oykus/eclipse-workspace/carrental/images/juke.png
+510065;Volkswagen;Polo;White;2009;Gas;1.4;79000;true;288000;false;C:/Users/oykus/eclipse-workspace/carrental/images/polo.png
